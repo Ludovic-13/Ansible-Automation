@@ -1,0 +1,8 @@
+---
+packages:
+  - name: python3
+    version: latest
+  - name: nginx
+    version: latest
+  - name: python3-venv
+    version: latest
